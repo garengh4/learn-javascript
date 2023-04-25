@@ -2,7 +2,7 @@
 - This is a single-page app, mobile first and responsive
 - This is a test and learn javascript with the intent on mastering react
 - Run `node nodePractice.js` in terminal.
-- Open with live-server jsPractice.html via right-click
+- Open with live-server `jsPractice.html` via right-click
 
 ## Issues
 - `npm install -g json-server` globally so we can access `empdb.json` via `http://localhost:3000/employees` and json-server
